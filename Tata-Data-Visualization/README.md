@@ -4,6 +4,13 @@
 This repository contains my work for the **Tata Data Visualization Job Simulation** on Forage (April 2025). In this simulation, I served as a consultant for an online 
 retail store, analyzing their sales data and delivering actionable insights to the CEO and CMO for strategic planning and business expansion.
 
+## Data Source
+
+All retail transaction data analyzed in this project was provided by Forage as part of the Tata Data Visualization Virtual Experience Program. The dataset is synthetic and used strictly for educational purposes.
+
+**Online Retail Data Set.xlsx**: [View Dataset](Tata-Data-Visualization/Online%20Retail%20Data%20Set.xlsx)
+
+
 ## Project Tasks
 
 ### Task 1: Framing Business Questions
@@ -42,15 +49,23 @@ I used **Power BI** to create four targeted visualizations aligned with executiv
 
 1. **Monthly Revenue Time Series (2011)**  
    Line chart showing seasonal revenue trends to support forecasting.
+   
+   ![Monthly Revenue](screenshots/Qtn%201.JPG)
 
 2. **Top 10 Revenue-Generating Countries (Excluding UK)**  
    Clustered Column chart with revenue and quantity sold to uncover key markets.
 
+   ![Top Countries](screenshots/Qtn%202.JPG)
+
 3. **Top 10 Customers by Revenue**  
    Bar chart highlighting top customers for loyalty and retention focus.
 
-4. **Global Product Demand Map (Excluding UK)**  
+   ![Top Customers](screenshots/Qtn%203.JPG)
+
+5. **Global Product Demand Map (Excluding UK)**  
    Geographical map visualization to identify international expansion opportunities.
+
+   ![Global Demand](screenshots/Qtn%204.JPG)
 
 ### Data Preparation Process
 
