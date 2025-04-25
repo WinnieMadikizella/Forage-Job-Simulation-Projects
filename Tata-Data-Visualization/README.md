@@ -99,5 +99,7 @@ These insights help the executive team optimize marketing, improve customer targ
 **Tata Data Visualization Virtual Experience Program**  
 _Forage, April 2025_
 
+[View Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_jEbwX2TKYBdtWfmBh_1743779909223_completion_certificate.pdf)
+
 
 *This project was completed as part of the Tata Data Visualization: Empowering Business with Effective Insights virtual experience program on Forage. All data is synthetic and for educational purposes only.*
